@@ -171,10 +171,13 @@ hr {
 
 /* footer section */
 
+#footer {
+  background-color: #ff4c68;
+}
 
 #footer a {
   text-decoration: none;
-  color: #ff4c68;
+  color: #fff;
 }
 
 #footer a:hover {
