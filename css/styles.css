@@ -36,10 +36,14 @@ em {
   padding: 7% 15%;
 }
 
+hr {
+  border: dotted #ff4c68; 8px;
+  width: 25%;
+  border-bottom: none;
+}
 .colored-section{
   background-color: #ff4c68;
   color: #fff;
-
 }
 
 .white-section {
@@ -130,12 +134,12 @@ em {
 
 /* Press section */
 #press {
-  background-color: #ef8172;
   padding-bottom: 3%;
 }
 
 .sponsor-text{
-  color: #fff;
+  padding-top: 3%;
+  color: #000;
   font-style: italic;
 
 }
@@ -198,7 +202,7 @@ em {
     font-size: 2rem;
   }
   .press-logo {
-    width: 25%;
+    width: 50%;
   }
   .nav-link{
     font-size: 2.5rem;
