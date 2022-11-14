@@ -175,6 +175,10 @@ hr {
   background-color: #ff4c68;
 }
 
+#footer p {
+  color: #fff;
+}
+
 #footer a {
   text-decoration: none;
   color: #fff;
